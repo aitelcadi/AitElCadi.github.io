@@ -30,6 +30,7 @@ Here's a table:
 
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+$$y = \sum{\sqrt{i^2+4i} \over 2sin(i),0,1}.$$
 
 How about a yummy crepe?
 
