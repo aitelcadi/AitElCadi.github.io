@@ -2,7 +2,7 @@
 layout: post
 title: Test
 subtitle: Test-test
-cover-img: /assets/img/avatar-icon.png
+cover-img: /assets/img/crepe.jpg
 thumbnail-img: /assets/img/avatar-icon.png
 share-img: /assets/img/crepe.jpg
 tags: [tag1, tag2, test]
