@@ -8,4 +8,4 @@ My name is Abdessamad AIT EL CADI. I hold a B. Eng. from Ecole Nationale des Pon
 
 My research interests are broad and include optimization (metaheuristics, combinatorial optimization, exact methods), simulation, AI, data mining, statistical analysis, applied to operations management in logistics and supply chain. My work also focused on the integration and coupling of simulation, optimization, and AI to aid decision-making processes. I have, also, a role as the scientific responsible of the Chair [TEC-LOG<sup>d</sup>](https://www.uphf.fr/actualites/lancement-chaire-tec-logd), which addresses issues related to technology, logistics, and sustainable circular economy. This position highlights my commitment to advancing research and development in areas critical to modern industry and society.
 
-![image info]([./pictures/image.png](https://www.europarl.europa.eu/resources/library/images/20230927PHT05951/20230927PHT05951_original.png))
+![image info](https://www.europarl.europa.eu/resources/library/images/20230927PHT05951/20230927PHT05951_original.png)
